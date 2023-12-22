@@ -2,7 +2,7 @@
 <!-- ![Imagen del proyecto](https://github.com/timmyandersonpro/kata_pixar/blob/main/assets/ele_trailer.jpg?raw=true) -->
 
 ## Ejemplo en vivo
-- https://age-calculator.vercel.app/
+- https://age--calculator.vercel.app/
 
 ## Descripción 📑
 Este repositorio presenta la solución a un desafío emocionante de Frontend Mentor, una plataforma que proporciona proyectos de codificación diseñados para mejorar las habilidades en el desarrollo web.
