@@ -1,65 +1,60 @@
-# Age Calculator
-<!-- ![Imagen del proyecto](https://github.com/timmyandersonpro/kata_pixar/blob/main/assets/ele_trailer.jpg?raw=true) -->
 
-## Ejemplo en vivo
-- https://age--calculator.vercel.app/
+# Age Calculator 🧮
 
-## Descripción 📑
-Este repositorio presenta la solución a un desafío emocionante de Frontend Mentor, una plataforma que proporciona proyectos de codificación diseñados para mejorar las habilidades en el desarrollo web.
+## 📖 About The Project
 
-## Desafío
+The Age Calculator allows users to input their birthdate and receive an instant calculation of their age in years, months, and days. This project was designed with a minimalist interface and smooth user experience.
 
-El objetivo principal es diseñar e implementar una interfaz de usuario y lógica de cálculo para una Calculadora de Edad. Los requisitos clave incluyen:
+[![Product Name Screen Shot][product-screenshot]][Project-URL]
 
-- **Diseño Responsivo:** La interfaz debe ser visualmente agradable y funcional en dispositivos variados.
-  
-- **Entrada de Fecha de Nacimiento:** Implementar un mecanismo para que el usuario ingrese su fecha de nacimiento.
+### 🌟 Features:
+- Instant age calculation based on user input ⌛
+- Clear and simple user interface 🖥️
+- Responsive design for mobile and desktop 📱💻
 
-- **Cálculo de Edad:** Desarrollar la lógica para calcular y mostrar la edad en años, meses y días.
 
-- **Visualización Clara:** Mostrar los resultados de manera clara y comprensible.
+### 🛠️ Built With these technologies
+[![React][React Badge]][React URL] [![Vite][Vite Badge]][Vite URL] [![TailwindCSS][TailwindCSS Badge]][TailwindCSS URL] [![Eslint][Eslint Badge]][Eslint URL] [![Prettier][Prettier Badge]][Prettier URL] 
 
-##
-## Tecnologías 🛠
-<!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+## 🤝 Contributing
 
-## Autor ✒️
-**Carlos Alberto Bolaño Luna**
+Contributions are welcome, please follow these steps:
 
-* [carlostutos899@gmail.com](carlostutos899@gmail.com)
-* [LinkedIn](https://www.linkedin.com/in/carlos-bola%C3%B1o-716926191/)
-<!-- * [Porfolio web](https://tu-dominio.com/) -->
+1. Fork the project
+2. Create a new branch (`git checkout -b feature/AmazingFeature`)
+3. Make the necessary commits (`git commit -m 'Add AmazingFeature'`)
+4. Open a Pull Request
 
-## Instalación 
-Sigue estos pasos para clonar y configurar el proyecto en tu máquina local.
+## 📧 Contact
 
-### Prerrequisitos
+I’d love to hear from you! Whether you have questions, feedback, or want to connect, feel free to reach out through any of the following platforms:
 
-- Node.js (versión X.X.X)
-- npm (versión X.X.X)
-
-### Clonación
-
-1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
-
-```bash
-git clone https://github.com/Carlos-Bolano/age-calculator
-```
-
-2. Navega al directorio del proyecto
- ```bash
-cd age-calculator
-   ```
-
-3. Instala las dependencias del proyecto
-```bash
-npm install
-   ```
-
-4. Para ejecutar el proyecto en modo de desarrollo, utiliza el siguiente comando:
-```bash
-npm run dev
-   ```
+ [![X][X Badge]][X URL] [![LinkedIn][LinkedIn Badge]][LinkedIn URL] [![GMail][GMail Badge]][GMail URL] [![Portfolio][Portfolio Badge]][Portfolio URL]
  
+Looking forward to connecting with you!
+
+
+
+[X Badge]: https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white
+[X URL]: https://x.com/Calisto_dev
+[LinkedIn Badge]: https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white
+[LinkedIn URL]: https://linkedin.com/in/carlos-bolano
+[GMail Badge]: https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white
+[GMail URL]: mailto:carlostutos828@gmail.com
+[Portfolio badge]:https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=portfolio&logoColor=white
+[Portfolio URL]: https://carlos-bolano.vercel.app
+[product-screenshot]: ./public/age-calculator-screenshot.png
+[Project-URL]: https://age--calculator.vercel.app
+
+
+[React Badge]: https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black
+[React URL]: https://react.dev/
+[TailwindCSS Badge]: https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white
+[TailwindCSS URL]: https://tailwindcss.com/
+[Eslint Badge]: https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white
+[Eslint URL]: https://eslint.org/
+[Prettier Badge]: https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&logo=Prettier&logoColor=black
+[Prettier URL]: https://prettier.io/
+[Vite Badge]: https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white
+[Vite URL]: https://vitejs.dev/
+
